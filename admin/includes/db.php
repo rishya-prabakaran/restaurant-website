@@ -1,6 +1,6 @@
 <?php 
 	
-	$db = new mysqli("remotemysql.com", "fcnd9p4eZg", "ZSx6EF1zKU", "fcnd9p4eZg");
+	$db = new mysqli("remotemysql.com", "LzFLd8tO82", "kGDv4Zo7Vm", "LzFLd8tO82");
 	
 	if($db->connect_errno) {
 		
