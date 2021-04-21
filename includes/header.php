@@ -19,6 +19,7 @@
 			<li style="font-size:20px"><a href="reservation.php">Reservation</a></li>
 			<li style="font-size:20px"><a href="gallery.php">Gallery</a></li>
 			<li style="font-size:20px"><a href="basket.php">Order</a></li>
+			<li style="font-size:20px"><a href="FAQ.html">FAQ</a></li>
 			
 		</ul>
 		
