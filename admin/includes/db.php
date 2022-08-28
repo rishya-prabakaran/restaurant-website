@@ -1,6 +1,6 @@
 <?php 
 	
-	$db = new mysqli("sql6.freemysqlhosting.net", "sql6515689", "4wsyiCtxPT", " sql6515689");
+	$db = new mysqli("sql6.freemysqlhosting.net", "sql6515689", "4wsyiCtxPT", "sql6515689");
 	
 	if($db->connect_errno) {
 		
